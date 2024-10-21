@@ -1,4 +1,4 @@
-[README-AI.md](https://github.com/user-attachments/files/17455191/README-AI.md)
+
 <p align="center">
   <img src="https://img.icons8.com/?size=512&id=55494&format=png" width="20%" alt="PHP_LOGIN.GIT-logo">
 </p>
